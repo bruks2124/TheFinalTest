@@ -7,4 +7,8 @@ git add Info/InfoFile2.txt
 
 Updated the Git username for this project by running
 git config user.name "bruks2124_INFO"
+git add Command.txt
+Updated MyFile.txt to include the course name and code.
+Ran 'git status' to check file changes and confirm the update.
+
 
