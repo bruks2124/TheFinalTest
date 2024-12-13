@@ -1,0 +1,10 @@
+git init
+git add MyFile.txt
+echo Command.txt > .gitignore
+git add .gitignore
+git add Info/InfoFile1.txt
+git add Info/InfoFile2.txt
+
+Updated the Git username for this project by running
+git config user.name "bruks2124_INFO"
+
